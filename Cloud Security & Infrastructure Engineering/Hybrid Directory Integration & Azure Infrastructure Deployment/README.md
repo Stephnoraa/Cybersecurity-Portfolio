@@ -13,3 +13,5 @@
 - Configured Active Directory forest (MazeCorporation206.onmicrosoft.com), OUs, and security groups.
 - Implemented hybrid directory synchronization using Microsoft Entra Connect with password hash sync and seamless SSO.
 - Resolved Azure quota/public IP deployment constraints by executing portal-based manual builds alongside DSC scripts.
+
+[Azure] [Active Directory] [Entra Connect] [Hybrid Identity] [Windows Server 2019] [PowerShell DSC]
